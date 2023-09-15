@@ -1,3 +1,6 @@
+# Remote collection of Windows Forensic Artifacts using KAPE and Microsoft Defender for Endpoint.
+# https://medium.com/@DFIRanjith/remote-collection-of-windows-forensic-artifacts-using-kape-and-microsoft-defender-for-endpoint-f7d3a857e2e0
+
 $zipFilePath = "C:\ProgramData\Microsoft\Windows Defender Advanced Threat Protection\Downloads\kape.zip"
 $extractPath = "C:\kape"
 
